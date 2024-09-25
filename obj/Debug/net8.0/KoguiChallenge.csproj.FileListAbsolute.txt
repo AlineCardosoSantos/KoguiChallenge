@@ -1,0 +1,17 @@
+D:\Trainee\KoguiChallenge\bin\Debug\net8.0\KoguiChallenge.exe
+D:\Trainee\KoguiChallenge\bin\Debug\net8.0\KoguiChallenge.deps.json
+D:\Trainee\KoguiChallenge\bin\Debug\net8.0\KoguiChallenge.runtimeconfig.json
+D:\Trainee\KoguiChallenge\bin\Debug\net8.0\KoguiChallenge.dll
+D:\Trainee\KoguiChallenge\bin\Debug\net8.0\KoguiChallenge.pdb
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\KoguiChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\KoguiChallenge.AssemblyInfoInputs.cache
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\KoguiChallenge.AssemblyInfo.cs
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\KoguiChallenge.csproj.CoreCompileInputs.cache
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\KoguiChallenge.dll
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\refint\KoguiChallenge.dll
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\KoguiChallenge.pdb
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\KoguiChallenge.genruntimeconfig.cache
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\ref\KoguiChallenge.dll
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\KoguiChallenge.csproj.AssemblyReference.cache
+D:\Trainee\KoguiChallenge\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Trainee\KoguiChallenge\obj\Debug\net8.0\KoguiCha.A68F994F.Up2Date
